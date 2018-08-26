@@ -1,0 +1,1 @@
+My first time learning Python 3, this repo is for the exercises completed while following the Modern Python 3 Bootcamp on Udemy with Colt Steele.
